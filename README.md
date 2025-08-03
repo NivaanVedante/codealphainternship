@@ -85,10 +85,3 @@ Apply **classification techniques** to structured medical datasets.
 - Jupyter Notebook
 
 ---
-
-## 📌 How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/codealpha-ml-internship.git
-   cd codealpha-ml-internship
