@@ -1,5 +1,3 @@
-# codealphainternship
-The following repository contains my submissions for the CodeAlpha Internship
 # 🚀 CodeAlpha Internship Projects - Machine Learning
 
 Welcome to the **CodeAlpha Machine Learning Internship Repository**!  
